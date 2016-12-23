@@ -32,18 +32,18 @@ Features:
 
 Smartphone app screenshots:
 
-![Home and remote](IMG_1925.png)
+![Home and remote](IMG_1925.PNG)
 
-![Features](IMG_1926.png)
+![Features](IMG_1926.PNG)
 
-![Wake up](IMG_1927.png)&nbsp;![Set alarm](IMG_1933.png)
+![Wake up](IMG_1927.PNG)&nbsp;![Set alarm](IMG_1933.png)
 
-![Home mode](IMG_1928.png)&nbsp;![](IMG_1934.png)&nbsp;![](IMG_1935.png)
+![Home mode](IMG_1928.PNG)&nbsp;![](IMG_1934.PNG)&nbsp;![](IMG_1935.PNG)
 
-![Formula mode](IMG_1929.png)
+![Formula mode](IMG_1929.PNG)
 
-![Notifications](IMG_1930.png)
+![Notifications](IMG_1930.PNG)
 
-![Product defaults](IMG_1931.png)
+![Product defaults](IMG_1931.PNG)
 
-![Device settings](IMG_1932.png)
+![Device settings](IMG_1932.PNG)
