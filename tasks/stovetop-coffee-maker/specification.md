@@ -1,4 +1,4 @@
-# Workshop Exercise: Stovetop Coffee Maker
+# Workshop Exercise: Prepare Coffe at Home
 
 Imagine you really love the smell and taste of coffee. For you, a fragrant mug of the magical fluid is an indispensable part of the waking-up ritual in the morning.
 
@@ -16,4 +16,4 @@ Now your sister is to stay at your place for the night, but you will be in a hur
 
 ## Tip
 
-Choose any of the coffee-making devices you feel comfortable with&mdash;for example, a stovetop coffee maker.
+Choose any of the coffee-making devices you feel comfortable with&mdash;for example, a stovetop coffee maker (a.k.a. кубинка, кубинска кафеварка).
