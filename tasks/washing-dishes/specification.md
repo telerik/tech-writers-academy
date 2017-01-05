@@ -16,4 +16,4 @@ Since you have a very supportive spouse, they volunteer to do all the washing an
 
 ## Tip
 
-Choose any of the dishwashing devices you feel comfortable with. You can also describe washing the dishes the old school way&mdash;in the sink. The point is to describe the generic steps when washing the dishes.
+Choose any of the dishwashing devices you feel comfortable with. For example, the old school way in the sink. 
