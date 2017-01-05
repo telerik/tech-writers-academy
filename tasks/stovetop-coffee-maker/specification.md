@@ -1,4 +1,4 @@
-# Workshop Exercise: Prepare Coffеe at Home
+# Workshop Exercise: Prepare Coffee at Home
 
 Imagine you really love the smell and taste of coffee. For you, a fragrant mug of the magical fluid is an indispensable part of the waking-up ritual in the morning.
 
