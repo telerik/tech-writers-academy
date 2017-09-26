@@ -12,6 +12,6 @@
 Пожелайте ни успех&mdash;или просто елате на семинара!
 
 Ваши документално,   
-* **Ива Коевска**, Senior Technical Writer @ATTRAQT Fredhopper  
-* **Петра Лазарова**, Content Managment Specialist for Sitefinity @Progress Telerik 
-* **Десислава Михайлова**, Senior Technical Writer for Kendo UI @Progress Telerik
+* **Ива Коевска**, Senior Technical Writer @ATTRAQT Fredhopper (iva.koevska@gmail.com)
+* **Петра Лазарова**, Content Managment Specialist for Sitefinity @Progress Telerik (Petra.Lazarova@progress.com) 
+* **Десислава Михайлова**, Senior Technical Writer for Kendo UI @Progress Telerik (Desislava.Mihaylova@progress.com)
