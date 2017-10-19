@@ -11,7 +11,7 @@ The term definitions are provided in the context of information development.
 * **Static Site Generators**&mdash;Simply put, they take a template directory with raw text files in various formats, run it through a converter, and spit it out as a complete and ready-to-publish static website.
 * **Wiki**&mdash;A website or database which is developed by the collaborative efforts of users.
 * **DITA**&mdash;Darwin Information Typing Architecture (DITA) is a standard XML-based architecture for representing documents for consumption by humans. It provides architectural features for content modularity, content reuse, and controlled extension of document vocabularies.
-* **DITA Open Toolkit**&mdash;DITA is the principle while DITA Open Toolkit is what makes it come into practice. DITA Open Toolkit is an open-source publishing engine for XML content authored in the Darwin Information Typing Architecture. More @ [http://www.dita-ot.org/](http://www.dita-ot.org/).
+* **DITA Open Toolkit**&mdash;DITA is the principle while DITA Open Toolkit is what makes it come into practice. DITA Open Toolkit is an open-source publishing engine for XML content authored in the Darwin Information Typing Architecture. 
 * **Reusability**&mdash;The ability of a chunk of text to be used in many places without altering it.
 * **Module**&mdash;The smallest possible chunk of content that can be reused.
 * **Modularization**&mdash;The ability to organize content into chunks that can be readily reused in many places.  
