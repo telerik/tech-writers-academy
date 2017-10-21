@@ -28,7 +28,7 @@ ETC се провежда през последните 6 години и от 2
 
 ## Специфични дейности през 2017
 
-През 2017 се провежда [**tekom България Roadshow**](http://www.technical-communication.org/bg/events-and-activities/past-events.html)&mdash;работни срещи в градовете извън София с цел запознаване на студенти и млади хора с възможностите, които професията предлага. В размките на тази година досега посетихме Пловдив, Враца, Велико Търново и Русе. Представлява четири часово събитие в две части:
+През 2017 се провежда [**tekom България Roadshow**](http://www.technical-communication.org/bg/events-and-activities/past-events.html)&mdash;работни срещи в градовете извън София с цел запознаване на студенти и млади хора с възможностите, които професията предлага. В размките на тази година досега посетихме Пловдив, Враца, Велико Търново и Русе. Представлява четиричасово събитие в две части:
 * **Първата част** е общо представяне на професията и професионалните организации.
 * **Втората част** се състои от практически задачи и съвети за писане на техническа документация.  
 
@@ -47,7 +47,7 @@ ETC се провежда през последните 6 години и от 2
 * Предоставя до 30% отстъпка за всички събития, организирани от tekom Европа.
 * Предоставя до 30% отстъпка за сертификационния курс.
 * Дава право на безплатно участие във всички събития, организирани от tekom България.
-* Дава право на безплатен абонамент за списанието, издавано от tekom Европа.
+* Дава право на безплатен абонамент за списанието tcwporld, издавано от tekom Европа.
 * Дава право на безплатен достъп до всички онлайн статии, публикувани на сайта на tekom Европа.
 
 ## Полезни връзки
@@ -55,8 +55,7 @@ ETC се провежда през последните 6 години и от 2
 1. tekom Европа   
   * Website @[http://www.technical-communication.org/](http://www.technical-communication.org/)        
   * Twitter @[https://twitter.com/tekom_Europe](https://twitter.com/tekom_Europe)    
-
-1. tekom България
+2. tekom България
   * Website @[http://www.technical-communication.org/bg/technical-communication-bulgaria.html](http://www.technical-communication.org/bg/technical-communication-bulgaria.html)  
   * Facebook @[https://www.facebook.com/evolutiontc/](https://www.facebook.com/evolutiontc/)  
   * LinkedIn @[https://www.linkedin.com/groups/8224610](https://www.linkedin.com/groups/8224610)     
